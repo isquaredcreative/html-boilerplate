@@ -1,7 +1,7 @@
 # html-boilerplate
 A cool html boilerplate using the latest bootstrap CDNs. Start coding right away!
 
-### Get Started On Your HTML Projects Quick And Easy Just Copy This Code Into Your New Project
+### Get Started On Your HTML Projects Quick And Easy! Just Copy This Code Into Your New Project
 
 
 ```html
