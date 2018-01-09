@@ -1,7 +1,7 @@
 # html-boilerplate
 A cool html boilerplate using the latest bootstrap CDNs. Start coding right away!
 
-### You can quickly get started with Bootstrap with nothing do download using the following template:
+### Get Started On Your HTML Projects Quick And Easy Just Copy This Code Into Your New Project
 
 
 ```html
@@ -72,4 +72,4 @@ A cool html boilerplate using the latest bootstrap CDNs. Start coding right away
 
 
 
-### Just create an index.html file in your new folder project, copy paste ours and start hacking!
+
